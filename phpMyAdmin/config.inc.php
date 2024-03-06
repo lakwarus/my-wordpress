@@ -27,7 +27,7 @@ $i++;
 /* Authentication type */
 $cfg['Servers'][$i]['auth_type'] = 'cookie';
 /* Server parameters */
-$cfg['Servers'][$i]['host'] = 'mysql-7c85f962-dcb7-42dc-88b6-92fcf00a44b2-myweb273350834-chore.a.aivencloud.com:12649';
+$cfg['Servers'][$i]['host'] = '';
 $cfg['Servers'][$i]['compress'] = false;
 $cfg['Servers'][$i]['AllowNoPassword'] = false;
 
